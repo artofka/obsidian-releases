@@ -17288,5 +17288,12 @@
     "author": "Mouadhbendjedidi",
     "description": "A Customizable Discord RPC",
     "repo": "Mouadhbendjedidi/themed-obsidian-discord-rpc"
+  },
+  {
+    "id": "obsidian-comfy-templates",
+    "name": "Comfy Templates",
+    "author": "artkartavtsov",
+    "description": "Quickly insert templates via @ trigger",
+    "repo": "artofka/obsidian-comfy-templates"
   }
 ]
